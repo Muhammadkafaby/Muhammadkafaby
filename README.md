@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I believe DevOps is an art that blends technical precision with creativity to craft seamless and secure workflows!
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+
+    
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Muhammad+Kafaby..;DevOps+Engineer;Cyber+Security+Enthusiast;Web+Developer+%7C+Full-stack;Diploma+Informatics+Student+%7C+Telkom+University;Tech+Enthusiast;Nice+To+Meet+You+....&center=true"></a></p>
 
 
