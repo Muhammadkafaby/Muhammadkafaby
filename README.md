@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I believe DevOps is an art that blends technical precision with creativity to craft seamless and secure workflows!
 
-# 🖥️ Technical Skills:
+## 🖥️ Technical Skills:
 
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
@@ -134,7 +134,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadkafaby&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=Muhammadkafaby&theme=radical&_border=false&include_all_commits=true&count_private=true&custom_title=Muhammad%20Kafaby's%20GitHub%20Stats)<br/>
