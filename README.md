@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 
 
 
+
+
+
 # 🖥️ Technical Skills:
 
 <p align="left">
@@ -144,6 +147,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+
+
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadkafaby&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -151,6 +157,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Muhammadkafaby&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
+
+
 
 ## 🏆 GitHub Trophies
 
