@@ -139,7 +139,7 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadkafaby&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Muhammadkafaby&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=crynobone&theme=radical&_border=false&include_all_commits=true&count_private=true&custom_title=Muhammad%20Kafaby's%20GitHub%20Stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Muhammadkafaby&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
