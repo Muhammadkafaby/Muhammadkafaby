@@ -26,62 +26,69 @@
 
 ---
 
+```html
 ## 🛠 Tech Stack
 
-### 💻 Programming & Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-</p>
+<table>
+<tr>
+<td valign="top" width="25%">
 
-### 🌐 Web & Frameworks
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50"/>
-</p>
+### 💻 Programming
+<div align="center">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
+</div>
 
-### 🗄 Database & Cloud
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-</p>
+</td>
+<td valign="top" width="25%">
 
-### ⚙️ Tools & Platforms
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Apache" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
-</p>
+### 🌐 Frameworks
+<div align="center">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45"/>
+</div>
 
-### 🎨 Design & Others
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/>
-</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### ☁️ Cloud
+<div align="center">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
+</div>
+
+</td>
+<td valign="top">
+
+### ⚙️ Tools
+<div align="center">  
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+</div>
+
+</td>
+</tr>
+</table>
+```
+
 
 ---
 
